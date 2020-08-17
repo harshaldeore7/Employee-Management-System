@@ -1,6 +1,6 @@
 # Employee-Management-System
 
 Employee Database <hr>
-Client Database
-Projects Database
-Tasks in a Project
+Client Database <hr>
+Projects Database <br>
+Tasks in a Project <hr>
